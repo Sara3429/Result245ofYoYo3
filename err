@@ -1,0 +1,4 @@
+manpath: can't set the locale; make sure $LC_* and $LANG are correct
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 1620966.41 ON barbun112 CANCELLED AT 2024-04-28T11:57:48 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 1620966 ON barbun112 CANCELLED AT 2024-04-28T11:57:48 DUE TO TIME LIMIT ***
